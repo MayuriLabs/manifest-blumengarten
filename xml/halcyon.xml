@@ -57,6 +57,7 @@
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="bloom" />
 
   <!-- Hardware -->
+  <project path="hardware/google/pixel" name="hardware_google_pixel" remote="bloom" />
   <project path="hardware/interfaces" name="hardware_interfaces" remote="bloom" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="bloom" />
 
